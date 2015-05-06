@@ -1,0 +1,23 @@
+body {
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+}
+
+#nav-bar {
+	text-align: center;
+}
+
+#grid {
+	margin: 0 auto;
+	height: 640px;
+	width: 640px;
+}
+
+.square {
+	background: black;
+	height: 100%;
+	width: 100%;
+}
+
+
